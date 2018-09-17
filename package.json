@@ -1,0 +1,19 @@
+{
+  "name": "fuckoff",
+  "version": "1.0.0",
+  "description": "fuck",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.8",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^4.6.5",
+    "@types/superagent": "^3.8.4"
+  }
+}
